@@ -1,0 +1,24 @@
+title: Your awesome title
+description: A catchy tagline
+
+twitter:
+  username: github
+
+gems:
+  - jekyll-feed
+  - jekyll-octicons
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  load_paths:
+    - _sass
+    - node_modules
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - bin
+  - vendor
+  - node_modules
